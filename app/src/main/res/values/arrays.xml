@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sortType">
+        <item>Сортировать по дате</item>
+        <item>Сортировать по автору</item>
+    </string-array>
+</resources>

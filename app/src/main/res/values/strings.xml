@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GovWeb</string>
+
+    <string name="getTop">get_top</string>
+    <string name="getList">get_list</string>
+    <string name="getRatings">get_ratings</string>
+    <string name="getRegratings">get_regratings</string>
+
+    <string name="header">Гослюди</string>
+    <string name="btnReload">Обновить данные</string>
+    <string name="title">Название: </string>
+    <string name="authorSlug">Код автора: </string>
+    <string name="authorName">Автор: </string>
+    <string name="authorPosition">Должность: </string>
+    <string name="postUrl">Пост: </string>
+    <string name="goslyudiUrl">Гослюди: </string>
+    <string name="avatarUrl">Аватар: </string>
+    <string name="comments">Комментарии: </string>
+    <string name="commenters">Комментаторы: </string>
+    <string name="visits24">Кол-во визитов: </string>
+    <string name="links">Ссылки: </string>
+    <string name="postPosition">Позиция в рейтинге: </string>
+    <string name="publication">Публикация: </string>
+    <string name="sortSelect">Выберите сортировку: </string>
+    <string name="badConnection">Соединение не установлено</string>
+</resources>
